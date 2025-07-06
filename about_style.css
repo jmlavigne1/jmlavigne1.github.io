@@ -1,0 +1,92 @@
+body {
+    background-color: whitesmoke;
+}
+
+.container {
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
+
+header {
+    text-decoration: none;
+    text-align: center;
+    font: bolder;
+    font-family: sans-serif;
+}
+
+header a {
+    text-decoration: none;
+    color: black;
+}
+
+nav {
+    text-align:center;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: x-large;
+    font-family: sans-serif;
+    color: black;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+main {
+
+    width: 1024px;
+    height: 750px;
+    background-color: rgba(92, 136, 218, 0.752);    
+}
+
+.main_paragraph {
+    text-decoration: none;
+    width:1024px;
+    height: 90px;
+    text-align:center;
+    font-family: sans-serif;
+    font-size: large;
+    padding-left: 5px;
+    padding-right: 3px;
+    padding-top: 3px;
+    padding
+}
+
+.linville_gorge img {
+    max-width: 100%;
+    height: auto;
+    position: relative;
+    top: 20px;
+    left:65px;
+    right:50px;
+
+}
+
+.resize {
+    width: 1000px;
+    height: auto;
+}
+.resize {
+    width: 900px;
+    height: auto;
+}
+
+footer {
+    width:1024px;
+    height: 100px;
+    background-color: rgba(92, 136, 218, 0.752);
+
+}
+
+.hyperlinked_img {
+    transform:scale(15%);
+    position:relative;
+    left: 850px;
+    bottom: 60px;
+}
+
+
